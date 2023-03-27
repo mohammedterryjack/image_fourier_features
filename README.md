@@ -12,13 +12,14 @@ image_other = Image.open("images/other.jpeg")
 ```python
 image_similarity(image_blender_blue, image_blender_orange)
 ```
+> 0.9838861100641383
 ![](images/blender_blue.jpg)
 ![](images/blender_orange.jpg)
->>> 0.9838861100641383
+
 
 ```python
 image_similarity(image_blender_blue, image_other)
 ```
+> 0.7792162468558569
 ![](images/blender_blue.jpg)
-![](images/other.jpg)
->>> 0.7792162468558569
+![](images/other.jpeg)
