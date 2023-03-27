@@ -1,5 +1,6 @@
 # image_fourier_features
 Fast Fourier Transform to extract Image Features
+(Simple but Effective)
 
 ```python
 from image_features import Image, image_similarity
